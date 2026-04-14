@@ -8,9 +8,11 @@
 
 ## Clonar el proyecto
 
-git clone https://github.com/You9123/Proyecto-Django.git .
-cd Proyecto-Django .
+```bash
+git clone https://github.com/You9123/Proyecto-Django.git
+cd Proyecto-Django
 code .
+```
 
 ## Crear entorno virtual
 
@@ -30,8 +32,10 @@ pip install -r requirements.txt
 
 ## Ejecutar el proyecto
 
+```bash
 python manage.py migrate
 python manage.py runserver
+```
 
 ## Trabajo en equipo
 
