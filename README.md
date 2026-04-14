@@ -8,8 +8,8 @@
 
 ## Clonar el proyecto
 
-git clone https://github.com/You9123/Proyecto-Django.git
-cd Proyecto-Django
+git clone https://github.com/You9123/Proyecto-Django.git .
+cd Proyecto-Django .
 code .
 
 ## Crear entorno virtual
